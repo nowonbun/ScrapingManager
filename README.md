@@ -1,0 +1,3 @@
+﻿# ScrapingManager
+
+Initial README.
